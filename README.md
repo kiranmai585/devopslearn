@@ -1,5 +1,3 @@
 
-dwq
-ef
-efe
 # devopslearn
+install devops
